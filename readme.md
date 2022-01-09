@@ -22,7 +22,7 @@ None. Prompts for user input and produces a configuration file on the first run.
 
 ### How to Use KCC KRC-20 Token Snapshot?
 
-Navigate to the directory you would like you token snapshot saved in.
+Navigate to the directory you would like your token snapshot saved in.
 
 ```
 cd path/to/a/directory
