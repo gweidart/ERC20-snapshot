@@ -1,0 +1,32 @@
+{
+  "name": "krc20-snapshot",
+  "version": "1.0.0",
+  "description": "This command-line utility creates a snapshot of any krc20 token in JSON or CSV format. You may use a publicly available node, or your own fully synced kcc-geth node. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusdt-LINK/kcc-krc20-snapshot.git"
+  },
+  "keywords": [
+    "KCC",
+    "KRC20",
+    "ERC20",
+    "Token",
+    "Snapshot",
+    "KuCoin",
+    "Ethereum",
+    "Smart",
+    "Contract",
+    "Airdrop",
+    "Tools"
+  ],
+  "author": "cusdt-LINK",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cusdt-LINK/kcc-krc20-snapshot/issues"
+  },
+  "homepage": "https://github.com/cusdt-LINK/kcc-krc20-snapshot#readme"
+}
