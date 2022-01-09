@@ -1,20 +1,7 @@
-/*****************************************************************************************************************************
-*
-*        .o.       ooooo        ooooooooo.   ooooo   ooooo       .o.            oooooooooo.         .o.         .oooooo.   
-*       .888.      `888'        `888   `Y88. `888'   `888'      .888.           `888'   `Y8b       .888.       d8P'  `Y8b  
-*      .8"888.      888          888   .d88'  888     888      .8"888.           888      888     .8"888.     888      888 
-*     .8' `888.     888          888ooo88P'   888ooooo888     .8' `888.          888      888    .8' `888.    888      888 
-*    .88ooo8888.    888          888          888     888    .88ooo8888.         888      888   .88ooo8888.   888      888 
-*   .8'     `888.   888       o  888          888     888   .8'     `888.        888     d88'  .8'     `888.  `88b    d88' 
-*  o88o     o8888o o888ooooood8 o888o        o888o   o888o o88o     o8888o      o888bood8P'   o88o     o8888o  `Y8bood8P'  
-*                                                                                                                          
-*                                                                                                                          
-*                                                                                                                          
-*
-*cusdt-LINK, t.me/GweiDart
-*****************************************************************************************************************************/
+ t.me/GweiDart
 
-# :camera_flash: KCC KRC20 Token Snapshot: Create KRC20 Token Snapshots :camera_flash:
+
+# :camera_flash: KCC KRC20 Token Snapshot: Create KRC20 Token Snapshots 
 
 This command-line utility creates a snapshot of any KRC20 token in JSON or CSV format. You may use "https://rpc-mainnet.kcc.network", or your own fully synced KCC-geth node.
 
