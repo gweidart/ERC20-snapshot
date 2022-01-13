@@ -1,10 +1,13 @@
 {
   "name": "krc20-snapshot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This command-line utility creates a snapshot of any krc20 token in JSON or CSV format. You may use a publicly available node, or your own fully synced kcc-geth node. ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "krc20-snapshot": "index.js"
   },
   "repository": {
     "type": "git",
@@ -28,5 +31,12 @@
   "bugs": {
     "url": "https://github.com/cusdt-LINK/kcc-krc20-snapshot/issues"
   },
-  "homepage": "https://github.com/cusdt-LINK/kcc-krc20-snapshot#readme"
+  "homepage": "https://github.com/cusdt-LINK/kcc-krc20-snapshot#readme",
+  "dependencies": {
+    "csv-writer": "^1.3.0",
+    "inquirer": "^6.3.1",
+    "linq": "^3.2.0",
+    "web3": "^1.0.0-beta.55",
+    "bignumber.js": "^7.2.1"
+  }
 }
